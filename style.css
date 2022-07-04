@@ -11,13 +11,13 @@ h1 {
     color: orange;
 }
 
-section {
+.flex {
     display: flex;
 }
 
 .half-width {
     width: 50%;
-    padding: 4%;
+    padding: 2%;
 }
 
 .half-width img {
